@@ -1,5 +1,5 @@
 ﻿using System;
-using Nume_Pren_Lab7.Data;
+using Hossu_Maria_Lab7.Data;
 using System.IO;
 using Hossu_Maria_Lab7;
 
